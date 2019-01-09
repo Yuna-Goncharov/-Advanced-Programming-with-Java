@@ -1,0 +1,50 @@
+Please enter 6 strings :
+Please enter String No 1 :
+Strin1
+Please enter String No 2 :
+Strin2
+Please enter String No 3 :
+Test
+Please enter String No 4 :
+Hello
+Please enter String No 5 :
+Maman
+Please enter String No 6 :
+14
+First List:
+Strin1	Strin2	Test	Hello	Maman	14	
+Second List:
+14	Maman	Hello	Test	Strin2	Strin1	
+
+Max Person Test Starts
+
+Creating empty Person List
+Printing the persons: 
+The list is Empty.
+
+Creating Person ("Dana", 1925)
+Adding the person to the List...
+Printing the Person List: 
+Person{name='Dana', birthYear=1925}	
+
+Creating Person ("Lee", 1991)
+Adding the person to the List...
+Printing the Person List: 
+Person{name='Dana', birthYear=1925}	Person{name='Lee', birthYear=1991}	
+
+Creating Person ("Mike", 1990)
+Adding the person to the List...
+Printing the Person List: 
+Person{name='Dana', birthYear=1925}	Person{name='Lee', birthYear=1991}	Person{name='Mike', birthYear=1990}	
+
+Creating Person ("Yehezkel", 1910)
+Adding the person to the List...
+Printing the Person List: 
+Person{name='Dana', birthYear=1925}	Person{name='Lee', birthYear=1991}	Person{name='Mike', birthYear=1990}	Person{name='Yehezkel', birthYear=1910}	
+
+running max function, returned: Person{name='Yehezkel', birthYear=1910}
+
+********Finished testing on Persons********
+
+
+Process finished with exit code 0
